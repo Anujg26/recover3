@@ -1,0 +1,29 @@
+# Node
+node_modules/
+.expo/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.pytest_cache/
+
+# React Native / Expo
+.expo-shared/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Environment Variables
+.env
+.env.*
+
+# macOS
+.DS_Store
